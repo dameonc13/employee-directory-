@@ -18,6 +18,20 @@ class getEmployees extends Component {
       .catch((err) => console.log(err));
   }
 
+  /*   handleInputChange = event => {
+      const value = event.target.value;
+      const name = event.target.name;
+      this.setState({
+        [name]: value
+      });
+    };
+  
+    
+    handleFormSubmit = event => {
+      event.preventDefault();
+      
+    };  */
+
   render() {
     console.log(this.state.results);
 
