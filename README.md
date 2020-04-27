@@ -28,7 +28,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-npm run eject
+- npm run eject
 Note: this is a one-way operation. Once you eject, you can’t go back!
 
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
@@ -43,13 +43,11 @@ You can learn more in the Create React App documentation.
 To learn React, check out the React documentation.
 
 # Built With
-
-MongoDB - NoSQL Database
-Express.js - Node.js framework
 React.js - MVC front-end framework
-Node.js - JavaScript runtime
-Yarn - Dependency management
-Materialize - CSS framework
-Auth0 - Authentication platform
-Authors
-See the list of contributors who participated in this project along with individual commit history.
+HTML
+CSS
+JavaScript
+Random User API
+
+
+
