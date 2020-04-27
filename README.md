@@ -43,10 +43,10 @@ You can learn more in the Create React App documentation.
 To learn React, check out the React documentation.
 
 # Built With
-React.js
-HTML
-CSS
-JavaScript
+React.js  
+HTML  
+CSS  
+JavaScript  
 Random User API
 
 
